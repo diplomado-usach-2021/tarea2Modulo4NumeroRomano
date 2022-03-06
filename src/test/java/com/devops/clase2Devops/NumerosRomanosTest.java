@@ -8,9 +8,7 @@ import org.junit.jupiter.api.Test;
 
 public class NumerosRomanosTest {
     
-    // 1- I,  2-- II, 3 -III ........
-
-    // Cambio de letra 1/5/10/50/100/500
+    // Pruebas importantes 1/5/10/50/100/500 ya que hay cambio de letra
 
     @Test
     void test(){
